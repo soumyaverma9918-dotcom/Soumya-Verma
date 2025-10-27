@@ -1,0 +1,22 @@
+<!Doctype html>
+<html lang = 'en'>
+<head>
+<meta charset = "UTF-8">
+<meta name = "viewport" content = "width-device-width"
+<title> E-commerce </title>
+<head>
+<body>
+<header>
+<h1>E-commerce</h1>
+<nav>
+<a href>="https:||www.bbc.com/news">News</a>
+</nav>
+</header>
+<main>
+<section>
+<img src= "bbc.png"
+<iframe>
+title="youtube vedio player"
+</frame>
+</head>
+
